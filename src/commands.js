@@ -8,7 +8,7 @@ help = [
 
 about = [
     '<br>',
-    "I'm a software engineer and a computer science student.",
+    "I'm a computer science student and a junior developer.<br>",
     '<br>',
 ];
 
